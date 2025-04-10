@@ -1,3 +1,7 @@
+//trabajo realizado por javier adrian pedraza garcia
+
+
+
 const { Client } = require('pg');
 
 // Datos de conexión con Supabase

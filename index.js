@@ -1,3 +1,8 @@
+
+//trabajo realizado por javier adrian pedraza garcia
+
+
+
 const express = require('express');
 const client = require('./db'); 
 const cors = require('cors');
